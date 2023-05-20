@@ -23,16 +23,16 @@ Il faut lancer 2 terminaux : un pour lancer le server et un pour lancer l'app fr
 ### Lancer le serveur back
 
 ```bash
-    npm i
     cd ./back
+    npm i
     npm run server
 ```
 
 ### Lancer l'application
 
 ```bash
-    npm i
     cd ./jdr-app-front
+    npm i
     npm start
 ```
 
