@@ -16,7 +16,9 @@ Actuellement, il est possible de :
 
 ## Lancer le projet
 
-Le projet possède un back (avec une base de donnée) et un front.
+Le projet possède un back (avec une base de donnée) et un front. 
+
+Il faut lancer 2 terminaux : un pour lancer le server et un pour lancer l'app front
 
 ### Lancer le serveur back
 
