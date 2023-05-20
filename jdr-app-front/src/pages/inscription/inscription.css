@@ -1,0 +1,10 @@
+.global-container{
+    height: 100vh;
+    width: 100vw;
+    background: rgb(6,231,206);
+    background: linear-gradient(135deg, rgba(6,231,206,1) 0%, rgba(173,119,239,1) 100%);
+    align-items: center; /* Ajout de la propriété "align-items" */
+    padding: 40px;
+  }
+  
+ 

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Balgruf';
+    src: url('./assets/font/Balgruf.woff2') format('woff2');
+    src: url('./assets/font/Balgruf.woff') format('woff');
+  }
