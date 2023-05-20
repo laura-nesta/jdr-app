@@ -21,6 +21,7 @@ Le projet possède un back (avec une base de donnée) et un front.
 ### Lancer le serveur back
 
 ```bash
+    npm i
     cd ./back
     npm run server
 ```
@@ -28,6 +29,7 @@ Le projet possède un back (avec une base de donnée) et un front.
 ### Lancer l'application
 
 ```bash
+    npm i
     cd ./jdr-app-front
     npm start
 ```
@@ -57,3 +59,9 @@ password : mdp
 - Imprimer une ficher personnage
 - Ajouter un utilisateur en ami
 - Ajouter un personnage dans une partie
+
+
+![image](https://github.com/laura-nesta/jdr-app/assets/99044194/6c0a438e-8fe8-4f52-ad19-001df7668342)
+![image](https://github.com/laura-nesta/jdr-app/assets/99044194/e8e06d4a-3288-4954-8854-4f7fbf9b670a)
+![image](https://github.com/laura-nesta/jdr-app/assets/99044194/a053289e-79a8-4a14-88f6-5d49afe9c96b)
+
